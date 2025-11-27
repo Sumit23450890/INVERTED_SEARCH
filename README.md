@@ -15,17 +15,16 @@ Inverted Search is a project that reads multiple text files, processes the words
 5.Update the database by adding or removing files
 
 🗂️ File Structure
-
+## Project Structure
 INVERTED_SEARCH/
-│── main.c
-│── file.c
-│── file.h
-│── database.c
-│── database.h
-│── search.c
-│── search.h
-│── README.md
-
+├── main.c
+├── file.c
+├── file.h
+├── database.c
+├── database.h
+├── search.c
+├── search.h
+└── README.md
 ⚙️ How It Works
 
 1. Add Files
