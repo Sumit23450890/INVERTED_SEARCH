@@ -1,0 +1,8 @@
+#0;aare;1;file2.txt;1;#
+#0;ABc;1;file1.txt;1;#
+#6;good;2;file2.txt;1;file1.txt;1;#
+#7;hi;2;file2.txt;1;file1.txt;1;#
+#7;hello;2;file2.txt;1;file1.txt;1;#
+#12;morning;1;file2.txt;1;#
+#22;world;1;file2.txt;1;#
+#26;./ok;2;file2.txt;1;file1.txt;1;#
